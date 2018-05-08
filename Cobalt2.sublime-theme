@@ -421,6 +421,16 @@
     },
 
 //
+// WINDOW TITLE BAR
+//
+
+    {
+        "class": "title_bar",
+        "fg": [170, 170, 170],
+        "bg": [35, 46, 55]
+    },
+
+//
 // STATUS BAR
 //
 
